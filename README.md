@@ -11,7 +11,7 @@
   
 </p>
 <h1>Learning-bootstrap -V4 </h1>  
-<h4>bootstrap- v4 Right to Left(RTL)</h4>
+<h4>bootstrap- v4 Right to Left (RTL)</h4>
 
 ## What's included
 
