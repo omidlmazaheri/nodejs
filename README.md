@@ -19,7 +19,7 @@ Within the download you'll find the following directories and files, logically g
 
 ```text
 bootstrap/
-└── bootstrap-rtl.css/
+├── bootstrap-rtl.css/
 ├── bootstrap-rtl.min.css/
 └── examples/      
 ```
