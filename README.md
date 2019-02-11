@@ -3,7 +3,7 @@
     <img src="https://getbootstrap.com/docs/4.2/assets/brand/bootstrap-solid.svg" alt="Bootstrap logo" width="72" height="72">
   </a>
 </p>
-
+<a href="	https://img.shields.io/cocoapods/l/:spec.svg"></a>
 <h3 align="center">Bootstrap</h3>
 
 <p align="center">
