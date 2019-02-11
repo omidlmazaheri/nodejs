@@ -1,0 +1,27 @@
+{
+  "name": "learning-bootstrap4",
+  "version": "1.0.0",
+  "description": "right to left bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omidlmazaheri/learning-bootstrap4.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap4",
+    "right",
+    "to",
+    "left",
+    "rtl"
+  ],
+  "author": "omid lak mazaheri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omidlmazaheri/learning-bootstrap4/issues"
+  },
+  "homepage": "https://github.com/omidlmazaheri/learning-bootstrap4#readme"
+}
