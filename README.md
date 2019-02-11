@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://www.npmjs.com/package/learning-bootstrap4" target="_blank">
 <img src="https://badge.fury.io/js/bootstrap.svg" alt="npm version" height="18"></a>
-
+<br>
 <a href="https://github.com/omidlmazaheri/learning-bootstrap4" target="_blank">
 <img alt="undefined" src="https://img.shields.io/github/license/omidlmazaheri/learning-bootstrap4.svg?style=flat"></a>
 </p>
